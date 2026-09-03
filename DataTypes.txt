@@ -1,0 +1,75 @@
+					Data Types
+1. Value Types			2. Reference Types		 3.Pointers
+
+Value Types : Value Types memory is fixed.
+	Integrals:(Numbers with out decimal values)
+	Data Type		Memory			Range
+	----------	   ----------	-------------
+		byte		1 byte		   0		To 255
+
+		sbyte		1 byte		-128		To 127
+
+		short		2 bytes		-32768		To 32767
+
+		ushort		2 bytes        0		To 65535
+
+		int			4 bytes   -2147583438   To 2147583437
+
+		uint		4 bytes        0        To 419CR
+		long        8 bytes      
+		ulong		8 bytes
+In the above data types u stands for unsigned(+ve numbers)
+
+	Decimal Types		Memory
+	-------------       -------------------------------------------------------------
+		float			4	bytes
+		double			8	bytes
+		decimal			16  bytes
+		char            2   bytes  Anything written in single quotes '5', '+' , 'p'
+		bool			1   byte   true , false
+  -----------------------------------------------------------------------------------
+  2.Reference type data type : These data types memory is not fixed like value types.
+  This memory may increase , or decrease.
+
+	string : Anything written double quotes can be called a string
+			Example :  "asdfsfassafasf"
+					   "=-*/?><:;'`$%&^*"
+					   "3234432424242424"
+					   "aaaAAABB2342423+*-()(**&&"
+					   "" Empty string
+
+	Arrays
+	class
+	object
+	dynamic
+	
+	Pointer Data Types :
+		IN
+		OUT
+
+sizeof() : It is a function which can be used to find the memory	
+		   occupied by the data type.
+
+
+string interpolation : In order to bind the string and the values combinely we use string interpolation.
+
+
+
+
+
+
+
+
+
+In string interpolution 
+we use $(dollar) and to 
+bind the value we use binding expression {}.
+
+$"{}"
+
+
+
+
+
+
+

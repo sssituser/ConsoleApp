@@ -1,0 +1,20 @@
+I) Output Methods:
+
+	Console.WriteLine()
+	Console.Write()
+
+	Are output methods , these methods can be used
+	to display the 
+	1. strings and 
+	2. values.
+
+	Console.WriteLine("sdfsalkf39483947Arun");
+
+II) Solution Explorer: It is a tab,
+	It can hold the projects(solutions)
+	and their 
+	Respective files.
+	Solution Exporer can hold mutltiple Projects.
+	We can make a particular  project as Startpproject
+
+sizeof(): It is a function which can be used to find the memory occupied by the variable.

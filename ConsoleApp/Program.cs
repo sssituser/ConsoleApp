@@ -2,36 +2,35 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;  // Predefined Namespaces  or .dll(dynamic link lib) or public Assemblies
+using System.Threading.Tasks;  
 
-namespace ConsoleApp  // Userdefined Namespace  or Application
+namespace ConsoleApp 
 {
-    internal class Program  // class declaration
+    internal class Program 
     {
-        static void Main(string[] args)  // Method
+        static void Main(string[] args) 
         {
-            // Document Area or Coding Area
+            Console.WriteLine("Hello World!");
         }
     }
 }
-// single line comment
+
+
 
 
 /*
- * MultiLine Comment
- */
+ * 
+ {}->curly braces or flowerbraces
+ ()->peranthsesis or crvebrace
+ []->square braces 
 
-/*
- * Comments can't be execucted , for  user reference
- */
+ {   curly brace open or flower brace open
 
-///
-/// dfsafdas
-/// sfsaf
-/// asfasf
-/// fsdd
-/// fsdf
-/// safsaf
-/// dafsfdsf
-/// 
-////
+ }   curly brace close or flower brace close
+ 
+(      curve brace open or peranthesis open 
+)       curve brace close or peranthesis close
+[ --> sqare brace open
+]---> square brace close
+
+ */

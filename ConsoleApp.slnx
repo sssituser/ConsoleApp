@@ -1,3 +1,9 @@
 <Solution>
-  <Project Path="ConsoleApp/ConsoleApp.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path="DataTypes.txt" />
+    <File Path="TextFile1.txt" />
+  </Folder>
+  <Project Path="ConsoleApp/ConsoleApp.csproj" Id="58879ce3-2f5d-45ab-9f83-fed0b52535b9" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="a52a5bb4-3c54-4efa-8f3f-b7364a477677" />
+  <Project Path="ConsoleApp2/ConsoleApp2.csproj" Id="f926517c-b4a0-4ef8-b2dd-d2010c48e024" />
 </Solution>
