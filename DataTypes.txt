@@ -3,7 +3,7 @@
 
 Value Types : Value Types memory is fixed.
 	Integrals:(Numbers with out decimal values)
-	Data Type		Memory			Range
+	Data Type		Memory(sizeof())			Range
 	----------	   ----------	-------------
 		byte		1 byte		   0		To 255
 
@@ -66,6 +66,71 @@ we use $(dollar) and to
 bind the value we use binding expression {}.
 
 $"{}"
+						Delcaration
+
+Deciding the variable of which type data is called Declaration.
+Once if we declare the variable can't be declared agian.
+
+Declaration can be done sevral types.
+1. fields
+				DataType variablename;
+				These fields can use camel case naming convetions
+
+syx:
+		Data Type variablename;
+
+int num1;
+doubld d;
+bool b;
+char ch;
+long x;
+float f;
+string x;
+								Initilization
+Assigning values to the variables can be called Initialization.
+Syntax :
+		DataType  variable = val;
+
+int num1 = 10;
+double d = 6.7;
+bool bl = true;
+char ch = '*'
+long l = 456;
+float f = 5.6F;
+decimal dm = 7.8M;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,0 +1,43 @@
+﻿9+10 in this expression 9, 10 are operands and + is operator.
+
+int a = 9;
+int b = 10;
+c = a+b;
+
+Operands may be directvalues or variables
+unary
+	if any operator uses only operand , that operator can be called
+	unary operator.
+	int a = 10;
+	a++;
+	20--;
+	--20;
+	In the given above statment ++ is an Increment operator.
+	It uses only one operand, hence ++ and -- are unary operators
+Binary
+	if any operator required two operands two perform the opearation
+	that operator is called binayr operator.
+	int a = 5, b = 2;
+	a+b;
+	+ is binary operator sinces , it requries two operands.
+
+Ternary
+	if any operator uses 3 operands , that opertor is called ternary
+	operator.
+	Exmple : ? : is the ternary  operators.
+
+
+	syx :
+		con ? stmt1: stamt2
+		1. if the con is true, compiler executes stmt1
+		2. if the con is false , compiler executes stmt2
+
+
+
+
+
+
+
+		
+
+
