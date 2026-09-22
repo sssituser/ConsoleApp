@@ -1,6 +1,7 @@
 ﻿Conditional Statements or Control Statements
 1. Simple if  :
-				if(con){
+				if(con)
+				{
 					stmts;
 				}
 				In the above syntax
@@ -15,6 +16,9 @@
 			}
 			1. con-True  Compiler executes stmts-1
 			2. Con-False Compiler executes stmts-2
+
+
+
 3. Nested if
 			if(con-1){
 				if(con-2){
