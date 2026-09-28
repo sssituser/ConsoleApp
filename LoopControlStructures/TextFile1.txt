@@ -1,0 +1,81 @@
+﻿
+			Iterative statements or Loop Control Structures or Repitative statements
+
+			In order to execute particular stmts(stmts) no of times as per the requirement we
+			use loops.
+
+
+
+		1.While : It is an Entry Controlled Structure, Since before executing while block
+		statements compiler the checks the condition first , 
+		if the condition is true it executes while block statements and then continues, if its false
+		it comes of the while block.
+
+		syntax : While(con)
+				{
+					stmts;	
+				}
+				
+				
+				case 1 : con true compiler executes the stmts till the con is false.
+				case 2 : con false compiler will not execute while block statements.
+
+
+		2.do-while
+		3.for
+		4.foreach
+
+
+		---------------------------------------------WHILE--------------------------------
+		1.Generating numbers from 1 to Given number
+		2.Write a program to find the sum of n number from the give number.
+			num = 5  sum = 1+2+3+4+5
+		3.Write a program to find the factorial of given number ?
+			num = 5     fact = 1*2*3*4*5 => 120
+
+		--------------------------------------------------------------------------------------
+		1.Separting the digits of a given number ?
+			num = 123    ans : 3   2   1
+		2.Counting the digits of a given number ?
+			num = 456  Digit Count : 3
+		8.Sum of the two digits of a given number? num=23  sum = 5
+		3.Sum of the digits of a given number ?
+			num = 345   Sum : 12
+		4.Average of the digits of a given number ?
+			num = 345   Avg : 12/3=> Avg = 4
+		5.Write program to find the reverse of a given number ?
+			num = 456   reverse = 654
+		6.Write a program to check given number is palindrome or not ?
+			num = 121  Reverse= 121  121 is palindrome number
+			num = 345  345 is not a palindrome  number.
+		7. Special number ?
+			num = 123  sum : 6    Mul = 6
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

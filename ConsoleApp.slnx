@@ -6,5 +6,6 @@
   </Folder>
   <Project Path="ConditionalStatements/ConditionalStatements.csproj" Id="05fa340f-140f-4ea8-830c-f5c1ecaa48da" />
   <Project Path="ConsoleApp/ConsoleApp.csproj" Id="58879ce3-2f5d-45ab-9f83-fed0b52535b9" />
+  <Project Path="LoopControlStructures/LoopControlStructures.csproj" Id="c5b94825-833f-4c57-a22e-b6571dad11dc" />
   <Project Path="OperatorsConsole/OperatorsConsole.csproj" Id="f919fb5d-5c83-412c-ad10-29f86af33ccf" />
 </Solution>

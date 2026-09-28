@@ -49,7 +49,8 @@
 		}
 
 
-5. switch 
+5. switch : It is a selection statement which can be used execute the stmts which
+are selected by the end user.
 					
 					It is called Selection Statement
 					switch(const){
