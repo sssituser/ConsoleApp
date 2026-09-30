@@ -73,6 +73,32 @@
 
 			base =5     power = 3              5  5  5
 
+=======================================================================================
+12 -> 1 2 3 4 6 12 //
+8->1,2,4,8
+16->1,2,4,8,16
+
+1.Find the Factors of a given number ?
+	num = 12   1,2,3,4,6,12
+
+2.Count the Factors of a given number ?
+  num = 8     8 has 4 factors
+  num = 16    16 has 5 factors
+
+3. Sum of the factors of a given number
+	num = 6        sum= 12
+	num = 8        sum = 15
+
+4.Avg of the factors of a given number ?
+   num = 8                 sum = 15  count = 4  Avg = 15/4 => 3
+
+5.Check given number is prime or not ?
+ num = 15     15 is not a prime number 15 has more than two factors
+ num = 11     11 is prime number, because 11 has 2 factors only
+
+6.Check given number is perfect number or not ?
+	num = 6   6 is perfect number (1+2+3)
+===========================================================
 
 
 
