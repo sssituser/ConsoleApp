@@ -13,14 +13,14 @@ namespace LoopControlStructures
         static void Main (string[] args)
         {
             int start = 1;
-            int end = 5;
+            int end = 4;
             int fact = 1;
-            while (start <= end) // 1<=5 2<=5 3<=5 4<=5 5<=5 6<=5-F
+            do // 1<=5 2<=5 3<=5 4<=5 5<=5 6<=5-F
             {
-               
+
                 fact = fact * start;// fact = 120
                 start = start + 1; // start = 6
-            }
+            } while (start <= end);
             Console.WriteLine($"{end}! is {fact}");
             
         }

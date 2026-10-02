@@ -22,6 +22,20 @@
 
 
 		2.do-while
+
+					do{
+						stmts;
+					}while(con);
+
+					or
+					do{
+						stmts;
+					}
+					while(con);
+					It is called as an Exit Controlled Structure, Since It Checks the
+					condition after execting do block stmts.
+
+
 		3.for
 		4.foreach
 
@@ -86,8 +100,8 @@
   num = 16    16 has 5 factors
 
 3. Sum of the factors of a given number
-	num = 6        sum= 12
-	num = 8        sum = 15
+  num = 6        sum= 12
+  num = 8        sum = 15
 
 4.Avg of the factors of a given number ?
    num = 8                 sum = 15  count = 4  Avg = 15/4 => 3

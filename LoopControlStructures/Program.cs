@@ -12,12 +12,12 @@ namespace LoopControlStructures
         {
             int start = 1;
             int end = 10;
-          
-            while(start <= end) // 1<=5-T 3<=5 5<=5 7<=5F
+
+            do // 1<=5-T 3<=5 5<=5 7<=5F
             {
                 Console.WriteLine($"{start}"); //1 3 5
-                start = start+1; // start = 7
-            }
+                start = start + 1; // start = 7
+            } while (start <= end);
         }
     }
 }

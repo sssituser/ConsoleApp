@@ -14,14 +14,14 @@ namespace LoopControlStructures
         static void Main (string[] args)
         {
             int start = 1;
-            int end = 10;
+            int end = 5;
             int sum = 0;
-            while (start <= end) // 1<=5-T 2<=5 3<=5 4<=5 5<=5 6<=5-F
+            do // 1<=5-T 2<=5 3<=5 4<=5 5<=5 6<=5-F
             {
-                
+
                 sum = sum + start; // sum = 15
                 start = start + 1; // start = 6
-            }
+            } while (start <= end);
             Console.WriteLine($"Sum {end } nums is : {sum}");
         }
     }

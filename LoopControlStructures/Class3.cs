@@ -16,11 +16,11 @@ namespace LoopControlStructures
             int start = 10;
             int end = 1;
 
-            while(start >= end)
+            do
             {
                 Console.WriteLine(start);
                 start = start - 1;
-            }
+            } while (start >= end);
 
         }
     }
