@@ -37,6 +37,40 @@
 
 
 		3.for
+
+		It is also loop which can be used to execute the instructions no of times
+		as per the requirement, Its syntax is advanced the while,do-while.
+		      (1)             (2)     (4)
+		for(initialization;condition;++/--){
+			stmts;(3)
+		}
+		Case 1:
+		=======================================
+		1.compiler initializes the value.
+		2.complier checks the condition
+		  if the condition is false
+		  compiler exits from the loop.
+		======================================
+		Case 2:
+		1.compiler initializes the value.
+		2.complier checks the condition
+		  if the condition is true compiler 
+		  executes the stmts
+		3.Compiler increments/or decrements the value
+		4.Checks the condtion - T
+			stmts executes
+
+
+
+
+
+
+
+
+
+
+
+
 		4.foreach
 
 
@@ -113,6 +147,53 @@
 6.Check given number is perfect number or not ?
 	num = 6   6 is perfect number (1+2+3)
 ===========================================================
+num = 5
+=================
+1
+1	2
+1	2	3
+1	2	3	4
+1	2	3	4	5  --- j
+===================
+1
+2	2
+3	3	3	
+4	4	4	4	
+5	5	5	5	5---- start
+=======================
+1
+2	3
+4	5	6
+7	8	9	10
+11	12	13	14	15 ---k
+========================
+A
+B	c
+D	E	F	
+G	H	I	J
+k	L	M	N	o
+===========================
+1
+1	2
+1	2	3
+1	2	3	4
+1	2	3	4	5
+1	2	3	4
+1	2	3
+1	2
+1
+=====================================
+1
+2	2
+3	3	3	
+4	4	4	4	
+5	5	5	5	5
+4	4	4	4	
+3	3	3
+2	2
+1
+
+
 
 
 
