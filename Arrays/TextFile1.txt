@@ -1,0 +1,21 @@
+﻿Arrays is variable which can be used to store no of elements 
+in sequentidal order of same data type
+
+
+Single Dimensional Array :
+		Array with only one dimension is called  as a single dimensional Array.
+
+		Syx:
+				DataType[ ] varname = new DataType[size];
+
+
+				int[ ] x = new int[5];// Empty
+
+				x[0] = 12;
+				x[1] = 56;
+				x[2] = 67
+				x[3] = 34
+				x[4] = 888
+
+
+

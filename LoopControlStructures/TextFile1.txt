@@ -60,18 +60,15 @@
 		4.Checks the condtion - T
 			stmts executes
 
-
-
-
-
-
-
-
-
-
-
-
 		4.foreach
+
+				Syntax:
+						foreach(DataType var1 in Var2){
+							smts;
+						}
+				1. Var2 is container(which can hold multiple elements
+				    like string , or array, collection etc.)
+				2. Var2 is variable which can hold only one item at time
 
 
 		---------------------------------------------WHILE--------------------------------

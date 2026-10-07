@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>LoopControlStructures.Class32</StartupObject>
+    <StartupObject>LoopControlStructures.Class35</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -72,6 +72,10 @@
     <Compile Include="Class30.cs" />
     <Compile Include="Class31.cs" />
     <Compile Include="Class32.cs" />
+    <Compile Include="Class33.cs" />
+    <Compile Include="Class34.cs" />
+    <Compile Include="Class35.cs" />
+    <Compile Include="Class36.cs" />
     <Compile Include="Class4.cs" />
     <Compile Include="Class5.cs" />
     <Compile Include="Class6.cs" />

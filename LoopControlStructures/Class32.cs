@@ -14,7 +14,6 @@ namespace LoopControlStructures
             int k = 1;
             for (int start = 1; start <= num; start++)
             { 
-                
                 for(int j = 1; j <= start; j++) 
                 {
                     Console.Write($"{k++}\t");//1
