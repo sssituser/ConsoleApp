@@ -16,6 +16,38 @@ Single Dimensional Array :
 				x[2] = 67
 				x[3] = 34
 				x[4] = 888
+Rectangular Array :
+			An array with rows and cols can be called as Rectangular array.
+			(Multidimensional array)
+
+			DataTtype[ , ] varname = new DataType[rows,cols];
+
+			int[,] var = new int[2,3];  var[0,0] var[0,1] var[0,2] 
+			                            var[1,0] var[1,1] var[1,2]
+
+			float[,] var1 = new float[3,3];
+
+			int[] arr = new int[3]; arr[0],arr[1],arr[2]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
