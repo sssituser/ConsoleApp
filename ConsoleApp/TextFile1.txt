@@ -2,6 +2,8 @@
 
 1.Console.ReadLine() :It is an Input method, It is used to read a string and returns a string.
 
+Console is a class , and ReadLine is method
+                         Write/WriteLine or methods.
 
 string :  Anything written double quotes can be called as string
 

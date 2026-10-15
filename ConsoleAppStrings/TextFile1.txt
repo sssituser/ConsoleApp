@@ -1,0 +1,17 @@
+﻿string : Anything written in double quotes can be called as a string.
+
+Examples:
+
+"abc" "675" "/*/*"  "dfs34244/*/*/*"
+ 
+"" emptystring
+
+string is a class. In order to work with the strings
+we use predefined methods of a string class. 
+string is immutable.(Which can't be changed)
+
+In the class  we can have both static methods and non-static methods.
+
+static methods can be called using class name.
+
+non-static methods can be called using object.
