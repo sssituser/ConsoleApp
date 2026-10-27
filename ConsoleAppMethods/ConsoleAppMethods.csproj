@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleAppMethods.Class8</StartupObject>
+    <StartupObject>ConsoleAppMethods.Class9</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,6 +54,7 @@
     <Compile Include="Class6.cs" />
     <Compile Include="Class7.cs" />
     <Compile Include="Class8.cs" />
+    <Compile Include="Class9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
