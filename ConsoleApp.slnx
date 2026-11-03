@@ -12,4 +12,5 @@
   <Project Path="ConsoleAppStrings/ConsoleAppStrings.csproj" Id="ee176cff-5fb3-4c3b-8849-fe6c95097017" />
   <Project Path="LoopControlStructures/LoopControlStructures.csproj" Id="c5b94825-833f-4c57-a22e-b6571dad11dc" />
   <Project Path="OperatorsConsole/OperatorsConsole.csproj" Id="f919fb5d-5c83-412c-ad10-29f86af33ccf" />
+  <Project Path="OppsConsoleApp/OppsConsoleApp.csproj" Id="bed36e92-30c8-4c51-9ebb-3e91f74e1b21" />
 </Solution>
