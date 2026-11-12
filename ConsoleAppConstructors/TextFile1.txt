@@ -1,0 +1,15 @@
+﻿constructor :  It is special a method.
+               It's name and  className both are same.
+               It will not have a return type.
+               It will be functioned automatically when the object is created.
+               It is used to create object.
+               It is of different types.
+                static constructor :
+                    Static constructor can be called  only once.
+                non static constructor
+                    non static constructor can be called as per objects defined.
+                    It is of different types.
+                    Default constructor(Constructor with out parameter)
+                    Parameterised constructor.
+                    Copy Constrcutor.
+

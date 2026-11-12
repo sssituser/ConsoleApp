@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>OppsConsoleApp.Class4</StartupObject>
+    <StartupObject>OppsConsoleApp.Class5</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,10 +51,12 @@
     <Compile Include="Class2.cs" />
     <Compile Include="Class3.cs" />
     <Compile Include="Class4.cs" />
+    <Compile Include="Class5.cs" />
     <Compile Include="Emloy.cs" />
     <Compile Include="Demo.cs" />
     <Compile Include="Demo1.cs" />
     <Compile Include="Employee.cs" />
+    <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sample.cs" />
