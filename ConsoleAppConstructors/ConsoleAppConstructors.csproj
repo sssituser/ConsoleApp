@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleAppConstructors.Class3</StartupObject>
+    <StartupObject>ConsoleAppConstructors.Class4</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,8 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
     <Compile Include="Class3.cs" />
+    <Compile Include="Class4.cs" />
+    <Compile Include="Customer.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="Emply.cs" />
     <Compile Include="Product.cs" />
