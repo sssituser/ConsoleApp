@@ -13,6 +13,7 @@
   <Project Path="ConsoleAppRectangularArray/ConsoleAppRectangularArray.csproj" Id="91770d46-8373-4d34-99eb-ac29ac6091cf" />
   <Project Path="ConsoleAppStaticMembers/ConsoleAppStaticMembers.csproj" Id="22bb9064-b3f1-46f7-a5fb-ff4aa5c61fae" />
   <Project Path="ConsoleAppStrings/ConsoleAppStrings.csproj" Id="ee176cff-5fb3-4c3b-8849-fe6c95097017" />
+  <Project Path="Inheritance/Inheritance.csproj" Id="37243728-cb60-4858-ac57-db432a2362e0" />
   <Project Path="LoopControlStructures/LoopControlStructures.csproj" Id="c5b94825-833f-4c57-a22e-b6571dad11dc" />
   <Project Path="OperatorsConsole/OperatorsConsole.csproj" Id="f919fb5d-5c83-412c-ad10-29f86af33ccf" />
   <Project Path="OppsConsoleApp/OppsConsoleApp.csproj" Id="bed36e92-30c8-4c51-9ebb-3e91f74e1b21" />

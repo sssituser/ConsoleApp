@@ -1,0 +1,12 @@
+﻿1.  Reusability of class is called Inheritance.
+				or
+	Deriving a Sub class from a Super Class.
+				or
+	Deriving a child class from a Parent class.
+
+	It is of different types.
+	1.Single Ineritance.
+	2.Multi-level Inheritance
+	3.Multiple Inheritnce.
+	4.Hierarchical Inheritance.
+	5.Hybrid Inheritance.
